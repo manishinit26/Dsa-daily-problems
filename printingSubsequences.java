@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class printingSubstring {
+public class printingSubsequences {
     public static void substring(String str,String curr) {
         if (str.isEmpty()) {
             System.out.println(curr);
