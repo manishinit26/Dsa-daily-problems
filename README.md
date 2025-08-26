@@ -18,4 +18,4 @@ Feel free to explore, learn from my solutions, or even suggest improvements!
 
 ## 📁 Structure
 
-The repository is organized by DSA topics to make navigation easy. Each folder contains problems related to a specific data structure or algorithm.
+The repository is organized by DSA topics to make navigation easy. Each folder contains problems related to a specific data structure or algorithm. and
